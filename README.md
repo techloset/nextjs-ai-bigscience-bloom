@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 ## Automatic Speech Recognition in Nextjs [Good One - Works in Urdu as well]
-### model name: mistralai/Mistral-7B-v0.1
+### model name: bigscience-bloom
 
 This Next.js project utilizes an Text Generation Model in 59 Languages deployed on Huggingface, and you can use it just like any other basic Next.js project.
 
