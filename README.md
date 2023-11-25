@@ -13,7 +13,7 @@ it work for Urdu as well
 add text and press submit button
 
 #### Access Token
-you may need to use your own Access Token from HuggingFace Account and replace hf_XXXXXXXXXXX with Authorization: 'Bearer hf_XXXXXXXXXXX in components/HuggingFaceQuery'
+you may need to use your own Access Token from HuggingFace Account and replace hf_XXXXXXXXXXX in .env.local'
 
 #### NOTE:
 when you get message that model is currently loading then please give some time to load it, after some time it will run  
