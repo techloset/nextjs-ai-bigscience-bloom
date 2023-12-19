@@ -3,8 +3,8 @@ This is a [Next.js](https://nextjs.org/) project with [`create-next-app`](https:
 ### model name: bigscience-bloom
 
 This Next.js project utilizes an Text Generation Model in 59 Languages deployed on Huggingface, and you can use it just like any other basic Next.js project.
-
-
+### Prompt
+میں بینچ پر بیٹھا تھا اور
 ### Bonus
 
 it work for Urdu as well
