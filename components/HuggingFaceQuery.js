@@ -63,7 +63,7 @@ export default function HuggingFaceQuery() {
               className="block text-gray-700 text-sm font-bold mb-2"
               htmlFor="username"
             >
-              facebook musicgen-small AI Music Generator
+              bigscience bloom AI Text Generator
             </label>
             <textarea
               id="message"
